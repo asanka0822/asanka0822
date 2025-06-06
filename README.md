@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Asanka Indunil</h1>
-<h3 align="center">Motivated Computer Science undergraduate & Full-Stack Developer</h3>
+<h3 align="center">Computer Science undergraduate & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asanka-indunil-lb4501347/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -51,13 +51,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asanka0822&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanka0822&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanka0822&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -68,10 +62,7 @@
 
 ---
 
-### 📫 How to Reach Me
 
-- LinkedIn: [asanka-indunil-lb4501347](https://www.linkedin.com/in/asanka-indunil-lb4501347/)
-- Email: your.email@example.com
 
 ---
 
