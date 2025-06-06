@@ -17,7 +17,6 @@
 - 🎓 Computer Science undergraduate at the University of Ruhuna
 - 💡 Passionate about building efficient and scalable solutions
 - 🔎 Actively seeking internship opportunities to apply my knowledge
-- 🏆 Hackathon participant (INSURGEX 1.0)
 - 🤝 Open to collaboration on full-stack and cloud projects
 
 ---
