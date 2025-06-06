@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-hero-images.vercel.app/api?username=asanka0822&heroText=Hi,%20I'm%20Asanka%20Indunil!&font=Inter&fontSize=40&fontWeight=700&bg=gradient" alt="hero image" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Asanka Indunil</h1>
 <h3 align="center">Motivated Computer Science undergraduate & Full-Stack Developer</h3>
